@@ -27,3 +27,6 @@ Getting Started
 ---------------
 
 1. Download and run the app.
+
+Update Theme fadhil
+-------------------
