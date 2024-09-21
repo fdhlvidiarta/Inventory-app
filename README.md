@@ -30,3 +30,5 @@ Getting Started
 
 Update Theme fadhil
 -------------------
+![Inventory](https://github.com/user-attachments/assets/0e59f856-bded-4945-82f9-82dbd7cc0c68)
+
